@@ -1,0 +1,4 @@
+function dukuj()
+{
+    window.print();
+}
